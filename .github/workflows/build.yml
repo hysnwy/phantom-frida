@@ -6,7 +6,7 @@ on:
       frida_version:
         description: 'Frida version (e.g. 17.7.2)'
         required: true
-        default: '17.7.2'
+        default: '16.5.7'
       custom_name:
         description: 'Custom name (replaces "frida" everywhere)'
         required: true
